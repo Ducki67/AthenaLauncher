@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FortAthenaLauncher/FortAthenaLauncher.vcxproj" Id="ad25ff10-f422-47e3-a366-7454912991b3" />
+</Solution>
