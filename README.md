@@ -9,9 +9,9 @@ A very simple launcher made with C++ and Imgui
 <summary> -> Click here to view. <- </summary>
 
 
-![Preview1](\media\Preview1.png) </br>
+![Preview1](media/Preview1.png) </br>
 
-![Preview2](\media\Preview2.png) </br>
+![Preview2](media/Preview2.png) </br>
 
 Very basic pretty much :P
 
